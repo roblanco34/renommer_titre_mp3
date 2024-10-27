@@ -1,6 +1,9 @@
 # Renommer titre mp3
 
+## Présentation
+
 Ce script python renomme les métadonnées "titre" de vos fichiers mp3 à l'identique que les noms de fichier.
+En le lançant depuis l'invite de commande, il vous suffira de renseigner le chemin du dossier où se situe les fichiers mp3.
 
 ## Pour commencer
 
