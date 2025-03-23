@@ -10,7 +10,7 @@ En le lançant depuis l'invite de commande, il vous suffira de renseigner le che
 ### Pré-requis
 
 - Python
-- Chemin du dossier où ce situe les fichiers mp3
+- Chemin du dossier où se situe les fichiers mp3
 
 ## Démarrage
 
